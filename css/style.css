@@ -953,9 +953,10 @@ code {
   clear: both;
 }
 .article-summary {
-  width: 50%;
+  width: 100%;
   float: left;
   margin-bottom: 30px;
+  text-align: center;
 }
 .article-summary a {
   text-decoration: none;
